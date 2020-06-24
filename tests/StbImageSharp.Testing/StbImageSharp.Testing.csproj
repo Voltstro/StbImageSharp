@@ -6,7 +6,7 @@
     <AssemblyName>StbImageSharp.Testing</AssemblyName>
     <RootNamespace>StbImageSharp.Testing</RootNamespace>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <Platforms>x86</Platforms>
+    <Platforms>x64</Platforms>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="SixLabors.ImageSharp" Version="1.0.0-beta0007" />
